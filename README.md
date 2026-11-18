@@ -147,7 +147,7 @@ Below that size, use the boat icon on its own.
 
 Community members are welcome to use the logo to **refer to CKAN**: for example, "Powered by CKAN" on a portal, in a talk about your CKAN deployment, or in an article about the project.
 
-Please don't use it in a way that suggests your product, service or organisation **is** CKAN or is officially endorsed by the CKAN project, unless that's been agreed. If you're not sure, [open an issue](../../issues/new) and ask.
+Please don't use it in a way that suggests your product, service or organisation **is** CKAN or is officially endorsed by the CKAN project, unless that's been agreed. If you're not sure, [open an issue](https://github.com/ckan/ckan-marketing/issues/new) and ask.
 
 > These are visual usage guidelines. Wider trademark guidelines for the CKAN name are a separate topic.
 
@@ -398,7 +398,7 @@ ckan-marketing/
 
 ## 🤝 Contributing
 
-- **Something missing or outdated?** [Open an issue](../../issues/new) in this repo.
+- **Something missing or outdated?** [Open an issue](https://github.com/ckan/ckan-marketing/issues/new) in this repo.
 - **Adding assets:** put them in the matching folder, follow the naming convention, include an SVG where one exists, and add them to this README in the same PR.
 - **Questions about the brand or campaigns:** contact the CKAN communications team via an issue or on the [ckan.org](https://ckan.org).
 
